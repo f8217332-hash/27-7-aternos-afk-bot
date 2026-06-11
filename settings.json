@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Bhai Hu",
+    "username": "SoloCloudHosting",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Bhaihu"
+      "password": "SoloPlayz"
     },
     "anti-afk": {
       "enabled": true,
